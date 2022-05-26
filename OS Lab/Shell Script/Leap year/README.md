@@ -1,1 +1,1 @@
-Write a shell script program to check whether given number is even or odd.
+Write a shell script program to check whether given year is leap year.
